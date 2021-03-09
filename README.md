@@ -1,0 +1,2 @@
+# Map-Reduce
+a map reduce algorithm that runs on Hadoop file system (HDFS). The algorithm has been implemented in python and the datasets used are from the github project Online-Machine-Learning-for-Cloud-Resource- Provisioning-of-Microservice-Backend-Systems. The aim of the algorithm is to segregate the CPU usage in a step function of 10 and output the number of samples, maximum, minimum, Median and Standard Deviation for the attribute of Memory Utilization Average for each segregation.
